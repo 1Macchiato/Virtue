@@ -9,6 +9,9 @@
     height: 40px;
     width: 40px;
     position: relative;
-    left: 49%; 
-    
-}
+    left: 49%; }
+  .header .menu-icon {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: -6%; }
