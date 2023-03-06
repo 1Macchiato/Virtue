@@ -5,6 +5,13 @@ background-color: black;
 width: 100%;
 }
 
+@mixin imgbase($lef, $h: 40px, $w: 40px, $p: absolute) {
+height: $h;
+width: $w;
+position: $p;
+left: $lef;
+}
+
 .header { 
 height: 50px; 
 position: fixed;
@@ -12,9 +19,10 @@ top: 0px;
 @include base();
 
    .cup-img {
-      height: 40px;
-      width: 40px;
-      position: absolute;
-      left: 49%;
+      @include imgbase(49%);
+   }
+
+   .menu-icon {
+      @include imgbase(-6%);
    }
 }
