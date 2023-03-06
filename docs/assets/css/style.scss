@@ -12,11 +12,16 @@ position: $p;
 #{$lr1}: $lr2;
 }
 
+@mixin shadowbase() {
+box-shadow: 0, 15px, 5px, 5px, black;
+}
+
 .header { 
 height: 50px; 
 position: fixed;
 top: 0px;
 @include base();
+@include shadowbase();
 
    .cup-img {
       @include imgbase(left, 49%, relative);
