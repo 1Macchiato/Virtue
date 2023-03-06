@@ -8,4 +8,5 @@
   .header .cup-img {
     height: 40px;
     width: 40px;
+    position: absolute;
     margin: auto; }
