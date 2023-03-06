@@ -31,3 +31,12 @@ top: 0px;
       @include imgbase(right, 2%, absolute);
    }
 }
+
+.menu {
+   top: 51px;
+   right: 2%;
+   position: fixed;
+   background-color: black;
+   height: 100px;
+   width: 100px;
+}
