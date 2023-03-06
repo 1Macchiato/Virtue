@@ -1,11 +1,13 @@
 /* scss styles */
 
 @mixin base() {
-background-color: white;
+background-color: black;
 width: 100%;
 }
 
 .header { 
 height: 200px; 
+position: fixed;
+top: 0px;
 @include base();
 }
