@@ -5,7 +5,7 @@ background-color: black;
 width: 100%;
 }
 
-@mixin imgbase($lr1, $lr2, $h: 40px, $w: 40px, $p: relative) {
+@mixin imgbase($lr1, $lr2, $p, $h: 40px, $w: 40px) {
 height: $h;
 width: $w;
 position: $p;
@@ -19,10 +19,10 @@ top: 0px;
 @include base();
 
    .cup-img {
-      @include imgbase(left, 49%);
+      @include imgbase(left, 49%, relative);
    }
 
    .menu-icon {
-      @include imgbase(right, -5%);
+      @include imgbase(right, 5%, absolute);
    }
 }
