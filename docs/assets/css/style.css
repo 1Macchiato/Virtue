@@ -27,11 +27,10 @@
   width: 100px; }
 
 .footer {
-  margin-top: 500px;
   position: relative;
   bottom: 0px;
   background-color: black;
   text-align: center;
   height: 20px;
   width: 100%;
-  padding: 10px; }
+  padding: 20px; }
