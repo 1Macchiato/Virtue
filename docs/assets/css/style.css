@@ -27,7 +27,7 @@
   width: 100px; }
 
 .footer {
-  position: fixed;
+  position: relative;
   bottom: 0px;
   background-color: black;
   text-align: center;
