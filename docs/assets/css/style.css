@@ -25,3 +25,10 @@
   background-color: black;
   height: 100px;
   width: 100px; }
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  background-color: black;
+  text-align: center;
+  padding: 10px; }
