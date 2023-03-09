@@ -27,6 +27,7 @@
   width: 100px; }
 
 .footer {
+  margin-top: 500px;
   position: relative;
   bottom: 0px;
   background-color: black;
