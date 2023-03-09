@@ -24,7 +24,7 @@ top: 0px;
 @include shadowbase();
 
    .cup-img {
-      @include imgbase(left, 49%, relative);
+      @include imgbase(left, 2%, relative);
    }
 
    .menu-icon {
@@ -33,10 +33,19 @@ top: 0px;
 }
 
 .menu {
+   display: none;
    top: 51px;
    right: 0%;
    position: fixed;
    background-color: black;
    height: 100px;
    width: 100px;
+}
+
+.footer {
+   position: fixed;
+   bottom: 0px;
+   background-color: black;
+   text-align: center;
+   padding: 10px;
 }
