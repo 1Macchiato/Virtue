@@ -25,8 +25,10 @@ body {
   right: 0%;
   position: fixed;
   color: black;
-  background-color: rgba(100%, 100%, 100%, 1);
+  background-color: white;
   padding: 15px; }
+  .menu .menu-items {
+    list-style: none initial none; }
 
 .footer {
   position: fixed;
