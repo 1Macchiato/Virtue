@@ -28,7 +28,7 @@ body {
   background-color: white;
   padding: 15px; }
   .menu .menu-items {
-    list-style: none initial none; }
+    list-style: none outside none; }
 
 .footer {
   position: fixed;
