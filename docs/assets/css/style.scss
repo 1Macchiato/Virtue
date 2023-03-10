@@ -42,7 +42,9 @@ top: 0px;
   background-color: rgba(100%, 100%, 100%, 1);
   padding: 15px;
   .menu-items {
-    list-style: none initial none;
+    list-style: none outside none;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
  }
 
