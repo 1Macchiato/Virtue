@@ -4,7 +4,7 @@
 <div/>
 <div class="footer">Copyright ©️ 2022-2023, Macchiato Incorporated. All Rights Reserved.<div/>
 <div class="menu">
-   <ul>
+   <ul class="menu-items">
       <li>MIST<li/>
       <li>Security<li/>
       <li>DLT<li/>
