@@ -35,13 +35,11 @@ top: 0px;
 }
 
 .menu {
-  display: none;
   top: 51px;
   right: 0%;
   position: fixed;
-  background-color: black;
-  height: 100px;
-  width: 100px; }
+  background-color: rgba(100%, 100%, 100%, .4);
+  padding: 15px; }
 
 .footer {
   position: fixed;
