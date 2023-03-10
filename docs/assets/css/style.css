@@ -21,13 +21,11 @@ body {
     right: 2%; }
 
 .menu {
-  display: none;
   top: 51px;
   right: 0%;
   position: fixed;
   background-color: black;
-  height: 100px;
-  width: 100px; }
+  padding: 15px; }
 
 .footer {
   position: fixed;
