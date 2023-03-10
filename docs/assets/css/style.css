@@ -1,4 +1,7 @@
 /* scss styles */
+body {
+  font-family: Verdana; }
+
 .header {
   height: 50px;
   position: fixed;
