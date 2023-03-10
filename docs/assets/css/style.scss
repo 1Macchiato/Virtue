@@ -40,12 +40,15 @@ top: 0px;
   position: fixed;
   color: black;
   background-color: rgba(100%, 100%, 100%, 1);
-  padding: 10px;
+  padding: 5px;
   .menu-items {
     list-style: none outside none;
     padding-top: 10px;
     padding-bottom: 10px;
-    border-bottom: 1px dashed black;
+    .item {
+        border-bottom: 1px dashed black;
+    }
+    
     a {
         &:link { text-decoration: none; }
         &:visited { text-decoration: none; }
