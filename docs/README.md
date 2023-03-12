@@ -3,7 +3,7 @@
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
 <div class="wp">
-  <h2>Introducing MIST<h2/><br/><br/>
+  <h2>Introducing MIST<h2/><br/>
   <p>
     The Macchiato Incorporated Software Toolset [MIST]
 is a multi-layered framework which empowers it's userbase
