@@ -28,4 +28,4 @@ dropdown.style.display = "block";
 function hideMenu(mi) {
 dropdown.style.display = "none";
 }
-<script/>
+</script>
