@@ -7,7 +7,6 @@ body {
 .header {
   height: 50px;
   position: fixed;
-  margin-bottom: 15px;
   top: 0px;
   background-color: black;
   width: 100%;
@@ -45,14 +44,19 @@ body {
     .menu .menu-items a:active {
       text-decoration: none; }
 
+#intro {
+  margin-top: 65px;
+}
+
 .wp {
-  margin-top: 1px;
   margin-bottom: 15px;
-  width: 65%; }
+  width: 65%;
+  left: 17%; }
   .wp p {
     font-size: 18px;
     font-weight: normal; 
-    width: 80%; }
+    width: 80%;
+    left: 10%; }
 
 .footer {
   position: fixed;
