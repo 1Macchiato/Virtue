@@ -14,7 +14,7 @@ the networks of the future.
 <div/>
 
 <div id="security" class="wp">
-  <h2 class="wp-heading">Introducing MIST<h2/>
+  <h2 class="wp-heading">Security<h2/>
   <p>
     Built in security and verification protocols ensure
 all user information is securely managed using the strongest
