@@ -60,7 +60,7 @@ body {
   .wp p {
     font-size: 18px;
     font-weight: normal; 
-    margin-top: 15px; }
+    top: 15px; }
 
 .footer {
   position: fixed;
