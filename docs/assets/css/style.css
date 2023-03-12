@@ -58,7 +58,8 @@ body {
     left: 15%; }
   .wp p {
     font-size: 18px;
-    font-weight: normal; }
+    font-weight: normal; 
+    margin-top: 15px; }
 
 .footer {
   position: fixed;
