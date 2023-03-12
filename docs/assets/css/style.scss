@@ -65,11 +65,8 @@ top: 0px;
 }
 
 .wp {
-  position: absolute;
   margin-bottom: 15px;
   text-align: center;
-  width: 90%;
-  left: 5%;
   .wp-heading {
     position: absolute;
     font-weight: normal;
@@ -78,9 +75,11 @@ top: 0px;
   }
   p {
     position: absolute;
+    width: 90%;
+    left: 5%;
+    top: 15px;
     font-size: 18px;
     font-weight: normal;
-    top: 15px;
   }
 }
 
