@@ -2,7 +2,7 @@
 <img id="logo" class="cup-img" src="assets/css/Logo_&_Cup_page_1.jpg"/>
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
-<div class="wp">
+<div id="intro" class="wp">
   <h2 class="wp-heading">Introducing MIST<h2/>
   <p>
     The Macchiato Incorporated Software Toolset [MIST]
