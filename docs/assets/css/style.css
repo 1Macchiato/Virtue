@@ -53,13 +53,11 @@ body {
   left: 5%;
   text-align: center; }
   .wp .wp-heading {
-    position: absolute;
     width: 70%;
-    left: 15%; }
+    margin-left: 15%; }
   .wp p {
     font-size: 18px;
-    font-weight: normal; 
-    margin-top: 15px; }
+    font-weight: normal; }
 
 .footer {
   position: fixed;
