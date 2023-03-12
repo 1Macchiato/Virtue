@@ -3,14 +3,14 @@
 <img id="icon" class="menu-icon" onclick="showMenu(this)" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
 <div class="footer">Copyright ©️ 2022-2023, Macchiato Incorporated. All Rights Reserved.<div/>
-<div id="dropdown" class="menu">
+<div id="dropdown" class="menu" onmouseout="hideMenu(this)">
    <ul class="menu-items">
-      <li class="item"><a class="itemLink">MIST<a/><li/>
-      <li class="item"><a class="itemLink">Security<a/><li/>
-      <li class="item"><a class="itemLink">DLT<a/><li/>
-      <li class="item"><a class="itemLink">Cloud<a/><li/>
-      <li class="item"><a class="itemLink">Networking<a/><li/>
-      <li class="item"><a class="itemLink">Connect<a/><li/>
+      <li class="item"><a class="itemLink" onclick="hideMenu(this)">MIST<a/><li/>
+      <li class="item"><a class="itemLink" onclick="hideMenu(this)">Security<a/><li/>
+      <li class="item"><a class="itemLink" onclick="hideMenu(this)">DLT<a/><li/>
+      <li class="item"><a class="itemLink" onclick="hideMenu(this)">Cloud<a/><li/>
+      <li class="item"><a class="itemLink" onclick="hideMenu(this)">Networking<a/><li/>
+      <li class="item"><a class="itemLink" onclick="hideMenu(this)">Connect<a/><li/>
    <ul/>
 <div/>
 
@@ -18,8 +18,13 @@
 var logo = document.getElementById("logo");
 var icon = document.getElementById("icon");
 var dropdown = document.getElementById("dropdown");
+var links = document.getElementsByClassName("itemLink");
 
 function showMenu(mi) {
-icon.style.display = "block";
+dropdown.style.display = "block";
+}
+
+function hideMenu(mi) {
+dropdown.style.display = "none";
 }
 <script/>
