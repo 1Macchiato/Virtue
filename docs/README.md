@@ -7,7 +7,7 @@
   <p>
     The Macchiato Incorporated Software Toolset [MIST]
 is a multi-layered framework which empowers it's userbase
-with innovative and modernized technologies built to support
+with innovative and modernized technologies built to drive
 the networks of the future.
   <p/>
 <div/>
