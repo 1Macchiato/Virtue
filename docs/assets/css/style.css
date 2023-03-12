@@ -48,10 +48,12 @@ body {
 
 .wp {
   margin-bottom: 15px;
+  position: absolute;
   width: 90%;
   left: 5%;
   text-align: center; }
   .wp .wp-heading {
+    position: absolute;
     width: 70%;
     left: 15%; }
   .wp p {
