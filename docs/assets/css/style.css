@@ -21,15 +21,15 @@ body {
     right: 2%; }
 
 .menu {
+  display: none;
   top: 51px;
   right: 0%;
   position: fixed;
   color: black;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.4);
   padding: 5px; }
   .menu .menu-items {
     list-style: none outside none;
-    padding-top: 10px;
     padding-bottom: 10px; }
     .menu .menu-items .item {
       border-bottom: 1px dashed black; }
@@ -38,7 +38,7 @@ body {
     .menu .menu-items a:visited {
       text-decoration: none; }
     .menu .menu-items a:hover {
-      text-decoration: none; }
+      color: #e6ac00; }
     .menu .menu-items a:active {
       text-decoration: none; }
 
