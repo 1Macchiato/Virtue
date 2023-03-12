@@ -16,7 +16,10 @@ position: $p;
 box-shadow: 0 15px 40px 25px black;
 }
 
-body { font-family: Verdana; }
+body { 
+  font-family: Verdana; 
+  text-align: center;
+  font-weight: normal; }
 
 .header { 
 height: 50px; 
@@ -57,6 +60,15 @@ top: 0px;
     }
   }
  }
+
+.wp {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  p {
+    font-size: 18px;
+    font-weight: normal;
+  }
+}
 
 .footer {
   position: fixed;
