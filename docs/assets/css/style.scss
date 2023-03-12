@@ -35,15 +35,15 @@ top: 0px;
 }
 
 .menu {
+  display: none;
   top: 51px;
   right: 0%;
   position: fixed;
   color: black;
-  background-color: rgba(100%, 100%, 100%, 1);
+  background-color: rgba(100%, 100%, 100%, .4);
   padding: 5px;
   .menu-items {
     list-style: none outside none;
-    padding-top: 10px;
     padding-bottom: 10px;
     .item {
         border-bottom: 1px dashed black;
