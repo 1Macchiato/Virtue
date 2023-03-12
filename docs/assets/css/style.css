@@ -47,11 +47,8 @@ body {
   margin-top: 65px; }
 
 .wp {
-  position: absolute;
   margin-bottom: 15px;
-  text-align: center;
-  width: 90%;
-  left: 5%; }
+  text-align: center; }
   .wp .wp-heading {
     position: absolute;
     font-weight: normal;
@@ -59,9 +56,11 @@ body {
     left: 15%; }
   .wp p {
     position: absolute;
+    width: 90%;
+    left: 5%;
+    top: 15px;
     font-size: 18px;
-    font-weight: normal;
-    top: 15px; }
+    font-weight: normal; }
 
 .footer {
   position: fixed;
