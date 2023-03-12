@@ -47,6 +47,7 @@ body {
   margin-top: 65px; }
 
 .wp {
+  position: absolute;
   margin-bottom: 15px;
   text-align: center;
   width: 90%;
