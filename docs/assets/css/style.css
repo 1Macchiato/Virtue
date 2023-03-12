@@ -1,7 +1,8 @@
 /* scss styles */
 body {
   font-family: Verdana; 
-  text-align: center; }
+  text-align: center;
+  font-weight: normal; }
 
 .header {
   height: 50px;
