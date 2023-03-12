@@ -61,9 +61,18 @@ top: 0px;
   }
  }
 
+#intro {
+  margin-top: 65px;
+}
+
 .wp {
-  margin-top: 15px;
   margin-bottom: 15px;
+  width: 90%;
+  left: 5%;
+  .wp-heading {
+    width: 70%;
+    left: 15%;
+  }
   p {
     font-size: 18px;
     font-weight: normal;
