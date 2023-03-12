@@ -50,13 +50,16 @@ body {
 
 .wp {
   margin-bottom: 15px;
-  width: 65%;
-  left: 17%; }
+  width: 90%;
+  left: 5%; 
+  .wp-heading {
+    width: 70%;
+    left: 15%;
+  }
   .wp p {
     font-size: 18px;
-    font-weight: normal; 
-    width: 90%;
-    left: 5%; }
+    font-weight: normal; }
+}
 
 .footer {
   position: fixed;
