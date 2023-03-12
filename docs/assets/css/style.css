@@ -1,6 +1,6 @@
 /* scss styles */
 body {
-  font-family: Verdana; 
+  font-family: Verdana;
   text-align: center;
   font-weight: normal; }
 
@@ -43,6 +43,13 @@ body {
       color: #e6ac00; }
     .menu .menu-items a:active {
       text-decoration: none; }
+
+.wp {
+  margin-top: 15px;
+  margin-bottom: 15px; }
+  .wp p {
+    font-size: 18px;
+    font-weight: normal; }
 
 .footer {
   position: fixed;
