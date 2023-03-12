@@ -2,14 +2,14 @@
 <img id="logo" class="cup-img" src="assets/css/Logo_&_Cup_page_1.jpg"/>
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
-<div>
-  <h2>Introducing MIST<h2/>
-  <div>
+<div class="wp">
+  <h2>Introducing MIST<h2/><br/><br/>
+  <p>
     The Macchiato Incorporated Software Toolset [MIST]
-Is a multi-layered framework which empowers it's userbase
+is a multi-layered framework which empowers it's userbase
 with innovative and modernized technologies built to support
 the networks of the future.
-  <div/>
+  <p/>
 <div/>
 <div class="footer">Copyright ©️ 2022-2023, Macchiato Incorporated. All Rights Reserved.<div/>
 <div id="dropdown" class="menu" onmouseout="hideMenu(this)">
