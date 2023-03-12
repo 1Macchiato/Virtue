@@ -1,7 +1,6 @@
 /* scss styles */
 body {
   font-family: Verdana;
-  text-align: center;
   font-weight: normal; }
 
 .header {
@@ -50,7 +49,8 @@ body {
 .wp {
   margin-bottom: 15px;
   width: 90%;
-  left: 5%; }
+  left: 5%;
+  text-align: center; }
   .wp .wp-heading {
     width: 70%;
     left: 15%; }
