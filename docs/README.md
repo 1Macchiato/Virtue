@@ -20,9 +20,10 @@ var icon = document.getElementById("icon");
 var dropdown = document.getElementById("dropdown");
 var links = document.getElementsByClassName("itemLink");
 
-function showMenu(mi) {
+icon.onclick = function(mi) {
 dropdown.style.display = "block";
 }
+
 
 function hideMenu(mi) {
 dropdown.style.display = "none";
