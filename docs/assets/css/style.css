@@ -48,11 +48,11 @@ body {
 
 .wp {
   position: relative;
-  margin-bottom: 15px;
+  margin-bottom: 40px;
   text-align: center; }
   .wp .wp-heading {
     position: relative;
-    font-size: 25px;
+    font-size: 40px;
     font-weight: normal;
     width: 70%;
     left: 15%; }
