@@ -47,7 +47,7 @@ body {
   position: relative;
   top: 85px;
   text-align: center;
-  width: 100%; }
+  left: 0%; }
   .wp .wp-heading {
     position: relative;
     font-size: 25px;
@@ -65,6 +65,7 @@ body {
 .footer {
   position: fixed;
   bottom: 0px;
+  left: 0%;
   background-color: black;
   color: white;
   font-weight: normal;
