@@ -3,7 +3,7 @@
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
 
-<div id="paper">
+<div id="paper" onload="rolled(this);">
 <div id="intro" class="wp" style="top:65px;">
   <span class="wp-heading">Introducing MIST<span/>
   <p>
@@ -74,16 +74,20 @@ providing you with the best, most seamless user experience possible.
 <script>
 var logo = document.getElementById("logo");
 var icon = document.getElementById("icon");
-var thesys = document.getElementById("paper");
+var thesys = document.documentElement;
 var dropdown = document.getElementById("dropdown");
 var links = document.getElementsByClassName("itemLink");
 
-thesys.wheel = function() {
+thesys.onload = function() {
 thesys.style.overflowY = "scroll";
 }
 
 icon.onclick = function() {
 dropdown.style.display = "block";
+}
+
+function rolled(mi) {
+mi.style.overflowY = "scroll";
 }
 
 
