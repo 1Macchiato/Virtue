@@ -77,7 +77,7 @@ var paper = document.getElementsByTagName("body");
 var dropdown = document.getElementById("dropdown");
 var links = document.getElementsByClassName("itemLink");
 
-body.onload = function() {
+paper.onload = function() {
 body.style.overflow = "scroll";
 }
 
