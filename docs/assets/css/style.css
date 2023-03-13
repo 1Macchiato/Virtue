@@ -64,9 +64,6 @@ body, #bod {
     line-height: 2.0; }
 
 .footer {
-  position: fixed;
-  bottom: 0px;
-  left: 0%;
   background-color: black;
   color: white;
   font-weight: normal;
