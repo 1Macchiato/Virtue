@@ -3,7 +3,7 @@
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
 
-<div id="intro" class="wp">
+<div id="intro" class="wp" style="top:65px;">
   <span class="wp-heading">Introducing MIST<span/>
   <p>
     The Macchiato Incorporated Software Toolset [MIST]
