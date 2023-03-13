@@ -1,5 +1,5 @@
 /* scss styles */
-body {
+body, #bod {
   font-family: Verdana;
   font-weight: normal;
   overflow: scroll; }
