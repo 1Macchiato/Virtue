@@ -24,7 +24,7 @@ of their data to share with whom they see fit.
 <div/>
 
 <div id="dlt" class="wp">
-  <span class="wp-heading">Distributed Ledger Technology<br/>[DLT]<span/>
+  <span class="wp-heading">Distributed Ledger Technology<br/>(DLT)<span/>
   <p>
     Distributed Ledger Technology [more popularly known as blockchain]
 is how MIST provides instant verification, total accountability and
