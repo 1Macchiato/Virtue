@@ -78,7 +78,7 @@ var thesys = document.getElementById("paper");
 var dropdown = document.getElementById("dropdown");
 var links = document.getElementsByClassName("itemLink");
 
-thesys.onload = function() {
+thesys.onscroll= function() {
 thesys.style.overflowY = "scroll";
 }
 
