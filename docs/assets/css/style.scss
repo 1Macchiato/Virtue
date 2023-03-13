@@ -60,13 +60,9 @@ top: 0px;
   }
  }
 
-#intro {
-  top: 65px;
-}
-
 .wp {
   position: relative;
-  margin-bottom: 40px;
+  top: 65px + 20px;
   text-align: center;
   .wp-heading {
     position: relative;
