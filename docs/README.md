@@ -78,7 +78,7 @@ var dropdown = document.getElementById("dropdown");
 var links = document.getElementsByClassName("itemLink");
 
 paper.onload = function() {
-body.style.overflow = "scroll";
+paper.style.overflow = "scroll";
 }
 
 icon.onclick = function() {
