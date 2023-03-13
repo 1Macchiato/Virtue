@@ -4,7 +4,7 @@
 <div/>
 
 <div id="intro" class="wp">
-  <h2 class="wp-heading">Introducing MIST<h2/>
+  <span class="wp-heading">Introducing MIST<span/>
   <p>
     The Macchiato Incorporated Software Toolset [MIST]
 is a multi-layered framework which empowers it's userbase
@@ -14,7 +14,7 @@ the networks of the future.
 <div/>
 
 <div id="security" class="wp">
-  <h2 class="wp-heading">Security<h2/>
+  <span class="wp-heading">Security<span/>
   <p>
     Built in security and verification protocols ensure
 all user information is securely managed using the strongest
