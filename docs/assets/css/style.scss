@@ -64,20 +64,19 @@ top: 0px;
   position: relative;
   top: 65px + 20px;
   text-align: center;
-  left: 0%;
+  width: 90%;
+  margin: auto;
   .wp-heading {
     position: relative;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: normal;
     width: 70%;
-    left: 15%;
+    margin: auto;
   }
   p {
     position: relative;
-    width: 90%;
-    left: 5%;
     top: 15px;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: normal;
   }
 }
