@@ -3,7 +3,7 @@
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
 
-
+<body>
 <div id="intro" class="wp" style="top:65px;">
   <span class="wp-heading">Introducing MIST<span/>
   <p>
@@ -69,6 +69,7 @@ providing you with the best, most seamless user experience possible.
       <li class="item"><a class="itemLink" onclick="hideMenu(this)">Connect<a/><li/>
    <ul/>
 <div/>
+<body/>
 
 <script>
 var logo = document.getElementById("logo");
