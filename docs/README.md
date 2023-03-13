@@ -3,6 +3,7 @@
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
 
+<div id="bod">
 <div id="intro" class="wp" style="top:65px;">
   <span class="wp-heading">Introducing MIST<span/>
   <p>
@@ -31,6 +32,8 @@ is how MIST provides instant verification, total accountability and
 transparency into it's operations for all who are interested while
 keeping users safe from malicious actors in the space.
   <p/>
+<div/>
+
 <div/>
 
 <div class="footer">Copyright ©️ 2022-2023, Macchiato Incorporated. All Rights Reserved.<div/>
