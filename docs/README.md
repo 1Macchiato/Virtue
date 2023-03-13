@@ -73,8 +73,13 @@ providing you with the best, most seamless user experience possible.
 <script>
 var logo = document.getElementById("logo");
 var icon = document.getElementById("icon");
+var paper = document.getElementsByTagName("body");
 var dropdown = document.getElementById("dropdown");
 var links = document.getElementsByClassName("itemLink");
+
+body.onload = function() {
+body.style.overflow = "scroll";
+}
 
 icon.onclick = function() {
 dropdown.style.display = "block";
