@@ -45,7 +45,7 @@ body {
 
 .wp {
   position: relative;
-  top: 85px;
+  top: 75px;
   text-align: center;
   width: 90%;
   margin: auto; }
@@ -59,7 +59,8 @@ body {
     position: relative;
     top: 15px;
     font-size: 14px;
-    font-weight: normal; }
+    font-weight: normal;
+    line-height: 1.7; }
 
 .footer {
   position: fixed;
