@@ -52,7 +52,10 @@ providing you with the best, most seamless user experience possible.
 <div/>
 
 <div id="connect" class="wp">
-  <span class="wp-heading">Connect with us via:<span/>
+  <span class="wp-heading">Connect with us via:<span/><br/>
+  <a href="">
+    <img src="assets/css/Github.JPG" alt="Github" style="height:150px;width:100%;/>
+  <a/>
 <div/>
 
 <div/>
