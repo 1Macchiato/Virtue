@@ -43,12 +43,9 @@ body {
     .menu .menu-items a:active {
       text-decoration: none; }
 
-#intro {
-  top: 65px; }
-
 .wp {
   position: relative;
-  margin-bottom: 40px;
+  top: 85px;
   text-align: center; }
   .wp .wp-heading {
     position: relative;
