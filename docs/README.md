@@ -34,6 +34,28 @@ keeping users safe from malicious actors in the space.
   <p/>
 <div/>
 
+<div id="cloud" class="wp">
+  <span class="wp-heading">Cloud<span/>
+  <p>
+    Store data locally or remotely and securely transmit anything
+you choose to share, all through secure end-to-end channels.
+  <p/>
+<div/>
+
+<div id="network" class="wp">
+  <span class="wp-heading">Network<span/>
+  <p>
+    A network that works for you! Ensuring your information is
+always protected, your privacy and security come first and
+providing you with the best, most seamless user experience possible.
+  <p/>
+<div/>
+
+<div id="connect" class="wp">
+  <span class="wp-heading">Connect with us via:<span/>
+  <img/>
+<div/>
+
 <div/>
 
 <div class="footer">Copyright ©️ 2022-2023, Macchiato Incorporated. All Rights Reserved.<div/>
