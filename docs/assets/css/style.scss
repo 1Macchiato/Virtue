@@ -16,10 +16,10 @@ position: $p;
 box-shadow: 0 15px 40px 25px black;
 }
 
-body, #bod { 
+body { 
   font-family: Verdana;
   font-weight: normal; 
-  overflow: scroll; }
+  overflow-y: scroll; }
 
 .header { 
 height: 50px; 
