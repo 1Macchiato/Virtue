@@ -46,7 +46,8 @@ body {
 .wp {
   position: relative;
   top: 85px;
-  text-align: center; }
+  text-align: center;
+  width: 100%; }
   .wp .wp-heading {
     position: relative;
     font-size: 25px;
