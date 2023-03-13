@@ -1,7 +1,8 @@
 /* scss styles */
 body {
   font-family: Verdana;
-  font-weight: normal; }
+  font-weight: normal;
+  overflow: scroll; }
 
 .header {
   height: 50px;
