@@ -23,6 +23,16 @@ of their data to share with whom they see fit.
   <p/>
 <div/>
 
+<div id="dlt" class="wp">
+  <span class="wp-heading">Distributed Ledger Technology<br/>[DLT]<span/>
+  <p>
+    Distributed Ledger Technology [more popularly known as blockchain]
+is how MIST provides instant verification, total accountability and
+transparency into it's operations for all who are interested while
+keeping users safe from malicious actors in the space.
+  <p/>
+<div/>
+
 <div class="footer">Copyright ©️ 2022-2023, Macchiato Incorporated. All Rights Reserved.<div/>
 <div id="dropdown" class="menu" onmouseout="hideMenu(this)">
    <ul class="menu-items">
