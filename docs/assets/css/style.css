@@ -44,19 +44,20 @@ body {
       text-decoration: none; }
 
 #intro {
-  margin-top: 65px; }
+  top: 65px; }
 
 .wp {
   position: relative;
   margin-bottom: 15px;
   text-align: center; }
   .wp .wp-heading {
-    position: absolute;
+    position: relative;
+    font-size: 25px;
     font-weight: normal;
     width: 70%;
     left: 15%; }
   .wp p {
-    position: absolute;
+    position: relative;
     width: 90%;
     left: 5%;
     top: 15px;
