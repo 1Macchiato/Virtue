@@ -37,7 +37,7 @@ keeping users safe from malicious actors in the space.
 <div id="cloud" class="wp">
   <span class="wp-heading">Cloud<span/>
   <p>
-    Store data locally or remotely and securely transmit anything
+    Store data locally or remotely and securely transmit anything<br/>
 you choose to share, all through secure end-to-end channels.
   <p/>
 <div/>
@@ -45,8 +45,8 @@ you choose to share, all through secure end-to-end channels.
 <div id="network" class="wp">
   <span class="wp-heading">Network<span/>
   <p>
-    A network that works for you! Ensuring your information is
-always protected, your privacy and security come first and
+    A network that works for you! Ensuring your information is<br/>
+always protected, your privacy and security come first and<br/>
 providing you with the best, most seamless user experience possible.
   <p/>
 <div/>
