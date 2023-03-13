@@ -3,7 +3,7 @@
 <img id="icon" class="menu-icon" src="assets/css/Menu_icon_page_1.jpg"/>
 <div/>
 
-<div id="bod">
+
 <div id="intro" class="wp" style="top:65px;">
   <span class="wp-heading">Introducing MIST<span/>
   <p>
@@ -56,8 +56,6 @@ providing you with the best, most seamless user experience possible.
   <a href="">
     <img src="assets/css/Github.JPG" alt="Github" style="height:150px;width:100%;/>
   <a/>
-<div/>
-
 <div/>
 
 <div class="footer">Copyright ©️ 2022-2023, Macchiato Incorporated. All Rights Reserved.<div/>
