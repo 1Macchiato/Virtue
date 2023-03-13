@@ -53,7 +53,6 @@ providing you with the best, most seamless user experience possible.
 
 <div id="connect" class="wp">
   <span class="wp-heading">Connect with us via:<span/>
-  <img/>
 <div/>
 
 <div/>
