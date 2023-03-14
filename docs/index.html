@@ -83,21 +83,17 @@ providing you with the best, most seamless user experience possible.
 <script>
 var logo = document.getElementById("logo");
 var icon = document.getElementById("icon");
-var thesys = document.documentElement;
+var thesys = document.body;
 var dropdown = document.getElementById("dropdown");
 var links = document.getElementsByClassName("itemLink");
 
-/*thesys.onload = function() {
+thesys.onload = function() {
 thesys.style.overflowY = "scroll";
-}*/
+}
 
 icon.onclick = function() {
 dropdown.style.display = "block";
 }
-
-/*function rolled(mi) {
-mi.style.overflowY = "scroll";
-}*/
 
 
 function hideMenu(mi) {
