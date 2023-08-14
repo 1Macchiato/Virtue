@@ -1,4 +1,4 @@
 # cupofmacch
-Official Github page for Macchiato Incorporated ™️.
-Copyright ©️ 2022-2023, Macchiato Incorporated.
+Official Github page for Virtue Corporation ™️.
+Copyright ©️ 2022-2023, Virtue Corporation.
 All rights reserved. 
