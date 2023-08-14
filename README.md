@@ -27,6 +27,6 @@ A network that works for you! Ensuring your information is
 always protected, your privacy and security come first, and 
 providing you with the best, most seamless user experience possible.
 
-More details coming!
+More details on the way!
 
 Brought to you by The Virtue Corporation. All Rights Reserved.
