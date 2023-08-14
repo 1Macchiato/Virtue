@@ -25,6 +25,6 @@ providing you with the best, most seamless user experience possible.
 
 More details on the way!
 
-Brought to you by the Virtue Corporation ™️.
+Brought to you by The Virtue Corporation ™️.
 
 Copyright ©️ 2022-2023, Virtue Corporation. All rights reserved. 
